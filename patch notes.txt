@@ -1,0 +1,38 @@
+pre:
+    -if and elif based movement
+    -basic commands
+
+10.10.2016
+    -added 3 map models
+    -clunky big-ass elif-mode movement WORKS
+    -staircase -> vertical movement ("z")
+    -labor chapter scripted
+    -bugfixes
+
+11.10.2016
+    Written:
+    -scissor obtaining sequence
+    -combat sequence with giant rat
+    -chapter2
+
+    other:
+    -chapter1 added to main game
+    -bugfixes #thanksharri
+    -made game restartable/losable
+    -look command fixed
+    -typo fixes
+
+12.10.2016
+    -fixed look (again)
+    -fixed chapter2
+    -added dark versions of rooms
+    -added locks to rooms
+    -added epic music
+    -tweaked take and drop commands
+    -added morphine pill popping
+
+credits:
+bug tester - harri
+movement - parta
+movement table - foureyes
+dope ass shit - piiskamiska
